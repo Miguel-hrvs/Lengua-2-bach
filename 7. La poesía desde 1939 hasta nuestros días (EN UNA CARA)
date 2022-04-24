@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="13" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Sun Apr 24 18:30:13 2022
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Sun Apr 24 18:30:13 2022
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="3" edit-time="845" last-saved="1650825013" uid="9cdff108-c3fa-11ec-8ed2-a866badd2026">
+<version id="3" started="1650824978" uid="94c9ba92-c3fc-11ec-8ed2-a866badd2026" auto="0" top-xid="13"/>
+</history>
+<styles>
+<s type="P" name="header" basedon="_Normal" props="tabstops:2.952778in/C0,5.905556in/R0"/>
+<s type="P" name="_Normal" basedon="Normal" props="lang:es-ES; line-height:1.000000; margin-bottom:0.000000pt; font-family:Times New Roman; font-size:12.000000pt"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="lang:ar-SA; font-size:11.000000pt; margin-bottom:10.000000pt; font-family:Times New Roman; line-height:1.150000"/>
+<s type="P" name="footer" basedon="_Normal" props="tabstops:2.952778in/C0,5.905556in/R0"/>
+<s type="P" name="Body Text" basedon="_Normal" props="text-align:justify; font-size:10.000000pt"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="C" name="Encabezado Car" basedon="Default Paragraph Font" props="lang:es-ES; font-size:12.000000pt; font-family:Times New Roman"/>
+<s type="P" name="List Paragraph" basedon="_Normal" props="margin-left:36.000000pt"/>
+<s type="P" name="No List" basedon="Normal"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+<s type="C" name="Pie de p\u225 ?gina Car" basedon="Default Paragraph Font" props="lang:es-ES; font-size:12pt; font-family:Times New Roman"/>
+<s type="C" name="Pie de página Car" basedon="Default Paragraph Font" props="lang:es-ES; font-size:12.000000pt; font-family:Times New Roman"/>
+<s type="C" name="T\u237 ?tulo 2 Car" basedon="Default Paragraph Font" props="lang:es-ES; font-weight:bold; font-family:Times New Roman; font-size:10pt"/>
+<s type="C" name="Texto independiente Car" basedon="Default Paragraph Font" props="lang:es-ES; font-size:10.000000pt; font-family:Times New Roman"/>
+<s type="C" name="Título 2 Car" basedon="Default Paragraph Font" props="lang:es-ES; font-weight:bold; font-family:Times New Roman; font-size:10.000000pt"/>
+<s type="P" name="heading 2" basedon="_Normal" followedby="_Normal" props="text-align:justify; font-weight:bold; font-size:10.000000pt"/>
+<s type="C" name="page number" basedon="Default Paragraph Font"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section footer="2" header="0" footer-even="1" xid="1" props="page-margin-right:0.500000in; column-line:off; page-margin-left:0.500000in; columns:1; page-margin-top:0.500000in; page-margin-bottom:0.500000in">
+<p xid="2" props="text-align:center; bgcolor:FFFFFF"><bookmark type="start" name="_GoBack" xid="3"/><bookmark type="end" name="_GoBack" xid="4"/><c props="font-weight:bold; font-size:10.000000pt">TEMA 7: </c><c props="font-size:10.000000pt; font-weight:bold; color:000000">LA POESÍA DE 1939 A FINALES DEL SIGLO XX. </c></p>
+<p xid="5" props="text-align:justify"><c></c></p>
+<p xid="6" props="text-indent:17.000000pt; text-align:justify"><c props="font-size:14pt">El final de la guerra supuso en la práctica un año cero de la poesía en España. Con Unamuno, García Lorca y Antonio Machado muertos, con Miguel Hernández encarcelado y con el exilio de buena parte de los autores del 27 y otros muchos poetas, la llamada Edad de Plata había llegado a su doloroso final. En los poetas del exilio se reflejan al principio sentimientos primarios hacia España: la rabia, el dolor y el odio a los vencedores. Más tarde, la añoranza de la tierra y los recuerdos van calmando el tono exaltado y devolviendo así a la poesía un tono más lírico y personal. Siguiendo el criterio de Dámaso Alonso, a los poetas de los años 40 se les suele agrupar según las siguientes tendencias: </c><c props="font-style:italic; font-size:14pt">Escorial</c><c props="font-size:14pt"> fue una revista de la Falange, nacida en 1940, que acogió a poetas como Luis Rosales, Luis Felipe Vivanco y Dionisio Ridruejo. Por su parte, la revista </c><c props="font-style:italic; font-size:14pt">Garcilaso</c><c props="font-size:14pt"> nace en 1943 con apoyo oficial y dirigida por José García Nieto. Sus características más destacadas son el cultivo de una temática heroica o imperialista junto con temas amorosos o religiosos, y el empleo de estrofas y metros clásicos. Por otro lado, En 1944 surge la poesía desarraigada, se publican dos poemarios y una revista que impulsaron la renovación de la poesía de posguerra. </c><c props="font-style:italic; font-size:14pt">Hijos de la ira </c><c props="font-size:14pt">(1944), de Dámaso Alonso, fue el libro más importante de la década. En una poesía sin moldes métricos, el autor da rienda suelta a su desarraigo profundo, a la protesta contra un mundo arrasado, del que se ha adueñado lo inhumano. La revista </c><c props="font-style:italic; font-size:14pt">Espadaña</c><c props="font-size:14pt">, dirigida por Victoriano Crémer y Eugenio de Nora, adoptó una postura beligerante contra</c><c props="font-style:italic; font-size:14pt"> Garcilaso</c><c props="font-size:14pt">, en ocasiones con una violencia de carácter </c><c props="font-style:italic; font-size:14pt">tremendista</c><c props="font-size:14pt">. Destaca su defensa de una poesía comprometida con las circunstancias del hombre de su tiempo, su combatividad ante la poesía “lujosa” y su vinculación con la poesía del 27. Los extremos poéticos se completan con nuevos poetas que podemos reunir bajo la etiqueta de </c><c props="font-style:italic; font-size:14pt">poesía existencial</c><c props="font-size:14pt">. Otras dos llamativas tendencias aparecen en la grisura de los años 40: el Postismo, movimiento vinculado con el surrealismo y el dadaísmo; y la revista cordobesa </c><c props="font-style:italic; font-size:14pt">Cántico</c><c props="font-size:14pt"> que cobijó una poesía caracterizada por el culturalismo y la exquisitez formal y léxica. Hacia 1950 cobra auge la llamada poesía social. Ésta pretende mostrar la verdadera realidad del hombre y del país, muy distinta de la versión oficial. Se considera a la poesía como un instrumento para transformar el mundo. La poesía debe dirigirse al mayor número de gente posible. De ahí la utilización de un lenguaje directo y coloquial. Los principales poemarios de esta tendencia fueron </c><c props="font-style:italic; font-size:14pt">Pido la paz y la palabra </c><c props="font-size:14pt">(1955), de Blas de Otero. En la década de los 60 se consolida un nuevo grupo de poetas que, sin renunciar al compromiso, elevan la calidad artística de la poesía. Por ejemplo, Ángel González. La poesía es un medio de conocimiento de la realidad, que alumbra las zonas no visibles del hombre y del mundo. Sus primeros libros se hallan marcados por la influencia de los poetas sociales y Antonio Machado, pero su trayectoria se inclinará hacia el intimismo y hacia la expresión de la experiencia individual. Los aspectos cotidianos de la vida personal aparecen en sus poesías. Otra diferencia será el tratamiento del lenguaje: el tono coloquial se eleva a un nivel artístico; se busca un estilo personal, en el que el humor y la ironía y canciones producen a veces la sensación de una conversación íntima con el lector. En 1970, el crítico José María Castellet compiló una antología polémica: </c><c props="font-style:italic; font-size:14pt">Nueve novísimos poetas españoles</c><c props="font-size:14pt">. Escogía de las varias corrientes del momento la que suponía un cambio más evidente con toda la poesía anterior. Se trata de poetas antirrealistas, que se vuelcan en una lírica relacionada con las vanguardias o con el Modernismo. En sus temas ocupa un lugar importante y mitificado la cultura de los medios de masas. Además de los autores incluidos en la antología, otros poetas, aunque desde enfoques variados,  se inscriben en esta tendencia novísima (también llamada veneciana); podemos citar a Antonio Colinas. Desde 1975 se frenan los excesos culturalistas y vanguardistas, y se inician rutas que conducen a una poesía más personal e intimista. En la poesía de los años ochenta es posible encontrar representantes de las poéticas más variadas y dispares. Se ha hablado de una rehumanización de la lírica, puesto que se revalorizan las dimensiones humanas, los problemas existenciales, la emoción, la autenticidad. Hay una vuelta a temas eternos. Aparecen nuevos enfoques más abiertos en el tratamiento del amor y del erotismo, incluyendo la homosexualidad. En la poesía actual destacan tendencias como la poesía de la experiencia (Luis García Montero).</c></p>
+</section>
+<section type="header" id="0" xid="7">
+<p style="header" xid="8" props="text-align:right"><c></c></p>
+</section>
+<section type="footer-even" id="1" xid="9">
+<p style="footer" xid="10"><c></c></p>
+<p style="footer" xid="11" props="margin-right:18.000000pt"><c></c></p>
+</section>
+<section type="footer" id="2" xid="12">
+<p style="footer" xid="13" props="margin-right:18.000000pt"></p>
+</section>
+</abiword>
